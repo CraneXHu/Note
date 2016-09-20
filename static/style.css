@@ -1,0 +1,81 @@
+.login_frame {
+	width: 200px;
+	height: 150px;
+	position: absolute;
+	left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -150px; 
+    padding-left: 10px;
+    border: 2px solid #909090;
+    border-radius: 5px;
+	background: white;    
+}
+
+.login_form {
+
+}
+
+input {
+	display: block;
+}
+
+#password{
+	margin-top: 5px;
+}
+
+#login_btn {
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+html {
+	background: #fafafa;
+}
+
+body {
+	margin: 5% 20% 5% 20%;
+    border: 1px solid LightGrey;
+	background: white;
+}
+
+#main {
+	margin: 5% 10% 5% 10%;
+}
+
+#home_form textarea {
+	width: 100%;
+	min-height: 100px;
+	border-radius: 3px;
+}
+
+#send {
+	float: right;
+	margin-top: 10px;
+}
+
+hr {
+	border: 1px #eeeeee solid;
+}
+
+
+#note_timeline {
+	margin-top: 60px;
+}
+
+.note {
+    padding: 0px 10px 0px 10px;
+    margin-top: 5px;
+}
+
+.content {
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+	font-size: 18px;
+}
+
+.time {
+	font-size: 16px;
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+	color: #606060;
+    text-decoration: none;
+}
